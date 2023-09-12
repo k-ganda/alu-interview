@@ -1,9 +1,14 @@
 #!/usr/bin/python3
+"""
+Method to calculate minimum number of
+operations required to reach a given number
+"""
 
 
 def minOperations(n):
     """
-    Calculates the minimum number of operations required to reach a given number using the following operations:
+    Calculates the minimum number of operations required
+    to reach a given number using the following operations:
      - Add 1
      - Multiply by 2
 
